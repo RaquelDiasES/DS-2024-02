@@ -1,7 +1,5 @@
 # Anotações da Aula - Dia 29.08.2024
 
-** Atividade - Aniversário.md **
-
 Requisitos - o que se espera que o software faça expectativa dele mas não caracteriza ele.
 Restrição de projeto - o cliente diz como ele quer que o software seja.
 Design- como o software vai ser "Definir o Software"
@@ -12,6 +10,7 @@ Design- como o software vai ser "Definir o Software"
 
 Construção do Software....
 
+** Atividade - Aniversário.md **
 
 # Para a organização do aniversário preciso que:
 
