@@ -1,3 +1,18 @@
+# Anotações da Aula - Dia 29.08.2024
+
+** Atividade - Aniversário.md **
+
+Requisitos - o que se espera que o software faça expectativa dele mas não caracteriza ele.
+Restrição de projeto - o cliente diz como ele quer que o software seja.
+Design- como o software vai ser "Definir o Software"
+
+.
+.
+.
+
+Construção do Software....
+
+
 # Para a organização do aniversário preciso que:
 
 ## Envie os convites para todos os convidados conforme lista e convites enviados no e-mail;
@@ -10,3 +25,6 @@
 ## Gerencie a equipe de organização do local no dia.
 
 ## Organize uma playlist de músicas infantis.
+
+
+
