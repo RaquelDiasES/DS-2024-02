@@ -1,2 +1,2 @@
-# DS-2024-02
+# ds-2024-02
 Repositório da Disciplina de Desing de Software
