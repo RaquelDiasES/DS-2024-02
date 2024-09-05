@@ -1,4 +1,4 @@
-# REGISTROS DO TRABALHO -  SEMANA 03.09
+# REGISTROS DO TRABALHO -  SEMANA 03.09 <h1>
 
 - Caracterizar o que precisa ser feito no trabalho. 
 - Definir o escopo do trabalho 
@@ -10,12 +10,12 @@ A inteligência artificial é um termo amplo que se refere a sistemas ou máquin
 Uma distinção importante é que, embora todo machine learning seja IA, nem toda IA é machine learning.
 <https://www.oracle.com/br/artificial-intelligence/machine-learning/what-is-machine-learning/>
 
-## SOBRE O JOGO <h2>
-> O que é?
+### SOBRE O JOGO <h3>
+#### >** O QUE É?** <h4>
 O Smart Decisions Game é um jogo interativo que simula um ambiente onde você toma decisões baseadas em dados e aprende sobre a eficácia dessas decisões ao longo do tempo.
 É uma ferramenta educacional desenvolvida para ensinar sobre tomada de decisão, machine learning e análise de dados de maneira lúdica e prática.
 
-## JOGO DE DECISÕES INTELIGENTES <h2>
+### JOGO DE DECISÕES INTELIGENTES <h3>
 
 Apresentado pela primeira vez no SATURN 2015
 Uma maneira divertida e leve de apresentar design
@@ -33,7 +33,7 @@ dados
 * Algoritmos - Um algoritmo de ML específico com
 seus prós e contras.
 
-## COMO FUNCINA O JOGO? <h2>
+### COMO FUNCINA O JOGO? <h3>
 * Cenários de Decisão - O jogo apresenta uma série de cenários onde você precisa tomar decisões baseadas em dados fornecidos. 
 Essas decisões podem envolver escolher estratégias, alocar recursos ou otimizar processos.
 
