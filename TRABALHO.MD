@@ -3,7 +3,7 @@
 - Caracterizar o que precisa ser feito no trabalho. 
 - Definir o escopo do trabalho 
 
-# TEMA: MACHINE LEARNING <h1>
+## TEMA: MACHINE LEARNING <h2>
 
 O machine learning (ML) é o subconjunto da inteligência artificial (IA) que se concentra na construção de sistemas que aprendem, ou melhoram o desempenho, com base nos dados que consomem. 
 A inteligência artificial é um termo amplo que se refere a sistemas ou máquinas que imitam a inteligência humana. O machine learning e a IA são frequentemente abordados juntos, e os termos às vezes são usados de forma intercambiável, mas não significam a mesma coisa.
@@ -11,7 +11,7 @@ Uma distinção importante é que, embora todo machine learning seja IA, nem tod
 <https://www.oracle.com/br/artificial-intelligence/machine-learning/what-is-machine-learning/>
 
 ### SOBRE O JOGO <h3>
-#### >** O QUE É?** <h4>
+#### > O QUE É? <h4>
 O Smart Decisions Game é um jogo interativo que simula um ambiente onde você toma decisões baseadas em dados e aprende sobre a eficácia dessas decisões ao longo do tempo.
 É uma ferramenta educacional desenvolvida para ensinar sobre tomada de decisão, machine learning e análise de dados de maneira lúdica e prática.
 
@@ -22,7 +22,7 @@ Uma maneira divertida e leve de apresentar design
 arquitetônico e ADD
 Disponível em: <https://smartdecisionsgame.com/#about>
 
-**As cartas são divididas em três grupos:**
+#### As cartas são divididas em três grupos: <h4>
 
 * Problemas - Uma categoria de tarefas que podem ser resolvidas
 usando ML; elas diferem na saída desejada de um sistema de
