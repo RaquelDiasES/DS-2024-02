@@ -11,7 +11,7 @@ Uma distinção importante é que, embora todo machine learning seja IA, nem tod
 <https://www.oracle.com/br/artificial-intelligence/machine-learning/what-is-machine-learning/>
 
 ### SOBRE O JOGO <h3>
-#### > O QUE É? <h4>
+> O QUE É? 
 O Smart Decisions Game é um jogo interativo que simula um ambiente onde você toma decisões baseadas em dados e aprende sobre a eficácia dessas decisões ao longo do tempo.
 É uma ferramenta educacional desenvolvida para ensinar sobre tomada de decisão, machine learning e análise de dados de maneira lúdica e prática.
 
