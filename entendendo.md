@@ -1,4 +1,4 @@
-# ISO/IEC/IEEE 12207:2017 <h1>
+# ISO/IEC/IEEE 12207:2017 <h3>
 Os processos desta norma formam um conjunto abrangente a partir do qual uma organização pode
 construir modelos de ciclo de vida de sistema de software apropriados para seus produtos e serviços. 
 Uma organização,dependendo de seu propósito, pode selecionar e aplicar um subconjunto apropriado para cumprir esse propósito.
@@ -10,7 +10,7 @@ A ausência da mesma, poderia gerar alguns incovenientes, como por exemplo a fal
 A falta de diretrizes específicas pode resultar em uma aplicação inadequada das atividades e tarefas descritas na nova versão da norma, impactando a qualidade dos processos e entregas.
 
 
-# ISO/IEC/IEEE42010:2022  <h1>
+# ISO/IEC/IEEE42010:2022  <h3>
 Aborda a criação, análise e sustentação de arquiteturas de sistemas por meio do uso de descrições de arquitetura. 
 Fornecendo uma ontologia central para a descrição de arquiteturas. 
 As disposições deste Padrão Internacional servem para impor propriedades desejadas de descrições de arquitetura, 
